@@ -7,7 +7,7 @@
 
 
 
-
+ccccc
 
 int main(int argc, char* argv[])
 {
@@ -119,8 +119,7 @@ int main(int argc, char* argv[])
             for(int innitJ = 0; innitJ < n; innitJ++)
             {
                 std::cout << l[innitI*n+innitJ] << "\t";
-            }
-            std::cout << "\n";
+            }jhgjhghkgh
         }
     }
     
